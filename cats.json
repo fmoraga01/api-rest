@@ -1,0 +1,68 @@
+{
+
+"productDetailsCats": [
+
+{
+"status": "OK",
+"idcat": "cat9210324",
+"nombre": "CASAS Y CAMAS DE MASCOTAS",
+"foto": "//sodimac.scene7.com/is/image/SodimacCL/cat9210324?fmt=pjpeg&wid=400&hei=400&qlt=70",
+"url": "https://www.sodimac.cl/sodimac-cl/category/cat9210324/casas-y-camas/?cid=cadhom174690"
+},
+{
+"status": "OK",	
+"idcat": "scat273724",
+"nombre": "PÉRGOLAS, TOLDOS Y QUITASOLES",
+"foto": "//sodimac.scene7.com/is/image/SodimacCL/scat273724?fmt=pjpeg&wid=400&hei=400&qlt=70",
+"url": "https://www.sodimac.cl/sodimac-cl/category/cat9210324/casas-y-camas/?cid=cadhom174690"
+},
+{
+"status": "OK",	
+"idcat": "scat278238",
+"nombre": "CÁMARAS DE SEGURIDAD",
+"foto": "//sodimac.scene7.com/is/image/SodimacCL/scat278238?fmt=pjpeg&wid=400&hei=400&qlt=70",
+"url": "https://www.sodimac.cl/sodimac-cl/category/cat9210324/casas-y-camas/?cid=cadhom174690"
+},
+{
+"status": "OK",	
+"idcat": "cat2920027",
+"nombre": "TINAS E HIDROMASAJES",
+"foto": "//sodimac.scene7.com/is/image/SodimacCL/cat2920027?fmt=pjpeg&wid=400&hei=400&qlt=70",
+"url": "https://www.sodimac.cl/sodimac-cl/category/cat9210324/casas-y-camas/?cid=cadhom174690"
+},
+
+{
+"status": "OK",	
+"idcat": "cat520042",
+"nombre": "LÁMPARAS DE PIE",
+"foto": "//sodimac.scene7.com/is/image/SodimacCL/cat520042?fmt=pjpeg&wid=400&hei=400&qlt=70",
+"url": "https://www.sodimac.cl/sodimac-cl/category/cat9210324/casas-y-camas/?cid=cadhom174690"
+},
+
+{
+"status": "OK",	
+"idcat": "cat5420001",
+"nombre": "VENTANAS",
+"foto": "//sodimac.scene7.com/is/image/SodimacCL/cat5420001?fmt=pjpeg&wid=400&hei=400&qlt=70",
+"url": "https://www.sodimac.cl/sodimac-cl/category/cat9210324/casas-y-camas/?cid=cadhom174690"
+},
+{
+"status": "OK",	
+"idcat": "cat1910002",
+"nombre": "MUEBLES DE COCINA",
+"foto": "//sodimac.scene7.com/is/image/SodimacCL/cat1910002?fmt=pjpeg&wid=400&hei=400&qlt=70",
+"url": "https://www.sodimac.cl/sodimac-cl/category/cat9210324/casas-y-camas/?cid=cadhom174690"
+},
+{
+"status": "OK",	
+"idcat": "Bauker",
+"nombre": "BAUKER",
+"foto": "https://www.sodimac.cl/static/Home-2020/ene/img/cd-ret-10022020_8.jpg",
+"url": "https://www.sodimac.cl/sodimac-cl/category/cat9210324/casas-y-camas/?cid=cadhom174690"
+}
+
+]
+
+
+
+}
