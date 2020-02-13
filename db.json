@@ -4,28 +4,28 @@
 
 {
 "status": "OK",
-"idcat": "cat9210324",
+"productId": "cat9210324",
 "nombre": "CASAS Y CAMAS DE MASCOTAS",
 "foto": "//sodimac.scene7.com/is/image/SodimacCL/cat9210324?fmt=pjpeg&wid=400&hei=400&qlt=70",
 "url": "https://www.sodimac.cl/sodimac-cl/category/cat9210324/casas-y-camas/?cid=cadhom174690"
 },
 {
 "status": "OK",	
-"idcat": "scat273724",
+"productId": "scat273724",
 "nombre": "PÉRGOLAS, TOLDOS Y QUITASOLES",
 "foto": "//sodimac.scene7.com/is/image/SodimacCL/scat273724?fmt=pjpeg&wid=400&hei=400&qlt=70",
 "url": "https://www.sodimac.cl/sodimac-cl/category/cat9210324/casas-y-camas/?cid=cadhom174690"
 },
 {
 "status": "OK",	
-"idcat": "scat278238",
+"productId": "scat278238",
 "nombre": "CÁMARAS DE SEGURIDAD",
 "foto": "//sodimac.scene7.com/is/image/SodimacCL/scat278238?fmt=pjpeg&wid=400&hei=400&qlt=70",
 "url": "https://www.sodimac.cl/sodimac-cl/category/cat9210324/casas-y-camas/?cid=cadhom174690"
 },
 {
 "status": "OK",	
-"idcat": "cat2920027",
+"productId": "cat2920027",
 "nombre": "TINAS E HIDROMASAJES",
 "foto": "//sodimac.scene7.com/is/image/SodimacCL/cat2920027?fmt=pjpeg&wid=400&hei=400&qlt=70",
 "url": "https://www.sodimac.cl/sodimac-cl/category/cat9210324/casas-y-camas/?cid=cadhom174690"
@@ -33,7 +33,7 @@
 
 {
 "status": "OK",	
-"idcat": "cat520042",
+"productId": "cat520042",
 "nombre": "LÁMPARAS DE PIE",
 "foto": "//sodimac.scene7.com/is/image/SodimacCL/cat520042?fmt=pjpeg&wid=400&hei=400&qlt=70",
 "url": "https://www.sodimac.cl/sodimac-cl/category/cat9210324/casas-y-camas/?cid=cadhom174690"
@@ -41,77 +41,77 @@
 
 {
 "status": "OK",	
-"idcat": "cat5420001",
+"productId": "cat5420001",
 "nombre": "VENTANAS",
 "foto": "//sodimac.scene7.com/is/image/SodimacCL/cat5420001?fmt=pjpeg&wid=400&hei=400&qlt=70",
 "url": "https://www.sodimac.cl/sodimac-cl/category/cat9210324/casas-y-camas/?cid=cadhom174690"
 },
 {
 "status": "OK",	
-"idcat": "cat1910002",
+"productId": "cat1910002",
 "nombre": "MUEBLES DE COCINA",
 "foto": "//sodimac.scene7.com/is/image/SodimacCL/cat1910002?fmt=pjpeg&wid=400&hei=400&qlt=70",
 "url": "https://www.sodimac.cl/sodimac-cl/category/cat9210324/casas-y-camas/?cid=cadhom174690"
 },
 {
 "status": "OK",	
-"idcat": "Bauker",
+"productId": "Bauker",
 "nombre": "BAUKER",
 "foto": "https://www.sodimac.cl/static/Home-2020/ene/img/cd-ret-10022020_8.jpg",
 "url": "https://www.sodimac.cl/sodimac-cl/category/cat9210324/casas-y-camas/?cid=cadhom174690"
 },
 {
 "status": "OK",	
-"idcat": "scat964399",
+"productId": "scat964399",
 "nombre": "Fitnes",
 "foto": "http://sodimac.scene7.com/is/image/SodimacCL/scat964399?wid=612&qlt=40",
 "url": "https://www.sodimac.cl/sodimac-cl/landing/scat964399/Fitness"
 },
 {
 "status": "OK",	
-"idcat": "scat526798",
+"productId": "scat526798",
 "nombre": "Camas y Colchones",
 "foto": "http://sodimac.scene7.com/is/image/SodimacCL/scat526798?wid=612&qlt=40",
 "url": "https://www.sodimac.cl/sodimac-cl/category/scat526798/camas"
 },
 {
 "status": "OK",	
-"idcat": "scat963247",
+"productId": "scat963247",
 "nombre": "Cortinas Rollers",
 "foto": "http://sodimac.scene7.com/is/image/SodimacCL/scat963247?wid=612&qlt=40",
 "url": "https://www.sodimac.cl/sodimac-cl/category/scat963247/Cortinas-y-Rollers"
 },
 {
 "status": "OK",	
-"idcat": "scat913817",
+"productId": "scat913817",
 "nombre": "Motobombas",
 "foto": "http://sodimac.scene7.com/is/image/SodimacCL/scat913817?wid=612&qlt=40",
 "url": "https://www.sodimac.cl/sodimac-cl/category/scat913817/Bombas-y-Motobombas"
 },
 {
 "status": "OK",	
-"idcat": "scat354867",
+"productId": "scat354867",
 "nombre": "Parrilas a Gas",
 "foto": "http://sodimac.scene7.com/is/image/SodimacCL/scat354867?wid=612&qlt=40",
 "url": "https://www.sodimac.cl/sodimac-cl/category/scat354867"
 },
 {
 "status": "OK",	
-"idcat": "cat3550016",
+"productId": "cat3550016",
 "nombre": "Impresoras",
 "foto": "http://sodimac.scene7.com/is/image/SodimacCL/cat3550016?wid=612&qlt=40",
 "url": "https://www.sodimac.cl/sodimac-cl/category/cat3550016/Impresoras"
 },
 {
 "status": "OK",	
-"idcat": "scat303247",
+"productId": "scat303247",
 "nombre": "Lamparas colgantes y de Techo",
 "foto": "http://sodimac.scene7.com/is/image/SodimacCL/scat303247?wid=612&qlt=40",
 "url": "https://www.sodimac.cl/sodimac-cl/category/scat303247/Lamparas-Colgantes-y-Techo"
 },
 {
 "status": "OK",	
-"idcat": "scat878125",
+"productId": "scat878125",
 "nombre": "Cajas de Herramientas",
 "foto": "http://sodimac.scene7.com/is/image/SodimacCL/scat878125?wid=612&qlt=40",
 "url": "https://www.sodimac.cl/sodimac-cl/category/scat878125/Cajas-y-Maletas-de-herramientas"
