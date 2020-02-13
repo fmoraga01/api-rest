@@ -59,7 +59,63 @@
 "nombre": "BAUKER",
 "foto": "https://www.sodimac.cl/static/Home-2020/ene/img/cd-ret-10022020_8.jpg",
 "url": "https://www.sodimac.cl/sodimac-cl/category/cat9210324/casas-y-camas/?cid=cadhom174690"
-}
+},
+{
+"status": "OK",	
+"idcat": "scat964399",
+"nombre": "Fitnes",
+"foto": "http://sodimac.scene7.com/is/image/SodimacCL/scat964399?wid=612&qlt=40",
+"url": "https://www.sodimac.cl/sodimac-cl/landing/scat964399/Fitness"
+},
+{
+"status": "OK",	
+"idcat": "scat526798",
+"nombre": "Camas y Colchones",
+"foto": "http://sodimac.scene7.com/is/image/SodimacCL/scat526798?wid=612&qlt=40",
+"url": "https://www.sodimac.cl/sodimac-cl/category/scat526798/camas"
+},
+{
+"status": "OK",	
+"idcat": "scat963247",
+"nombre": "Cortinas Rollers",
+"foto": "http://sodimac.scene7.com/is/image/SodimacCL/scat963247?wid=612&qlt=40",
+"url": "https://www.sodimac.cl/sodimac-cl/category/scat963247/Cortinas-y-Rollers"
+},
+{
+"status": "OK",	
+"idcat": "scat913817",
+"nombre": "Motobombas",
+"foto": "http://sodimac.scene7.com/is/image/SodimacCL/scat913817?wid=612&qlt=40",
+"url": "https://www.sodimac.cl/sodimac-cl/category/scat913817/Bombas-y-Motobombas"
+},
+{
+"status": "OK",	
+"idcat": "scat354867",
+"nombre": "Parrilas a Gas",
+"foto": "http://sodimac.scene7.com/is/image/SodimacCL/scat354867?wid=612&qlt=40",
+"url": "https://www.sodimac.cl/sodimac-cl/category/scat354867"
+},
+{
+"status": "OK",	
+"idcat": "cat3550016",
+"nombre": "Impresoras",
+"foto": "http://sodimac.scene7.com/is/image/SodimacCL/cat3550016?wid=612&qlt=40",
+"url": "https://www.sodimac.cl/sodimac-cl/category/cat3550016/Impresoras"
+},
+{
+"status": "OK",	
+"idcat": "scat303247",
+"nombre": "Lamparas colgantes y de Techo",
+"foto": "http://sodimac.scene7.com/is/image/SodimacCL/scat303247?wid=612&qlt=40",
+"url": "https://www.sodimac.cl/sodimac-cl/category/scat303247/Lamparas-Colgantes-y-Techo"
+},
+{
+"status": "OK",	
+"idcat": "scat878125",
+"nombre": "Cajas de Herramientas",
+"foto": "http://sodimac.scene7.com/is/image/SodimacCL/scat878125?wid=612&qlt=40",
+"url": "https://www.sodimac.cl/sodimac-cl/category/scat878125/Cajas-y-Maletas-de-herramientas"
+}   
 
 ]
 
